@@ -1,7 +1,8 @@
 # Data-Science-with-Python-Bosch-Stores-Sales-Prediction-Project
 ***Purpose:***
 The purpose of this project is to analyze retail sales data from Bosch stores and identify trends, patterns, and factors affecting weekly sales. By leveraging data analytics, statistical modeling, and machine learning techniques, the study aims to provide insights into store performance, the impact of external factors like fuel prices and unemployment, and predictive models for sales forecasting.
-![Hypothesis Testing]([URL-to-image](https://www.analyticssteps.com/backend/media/thumbnail/6735922/4237247_1626434645_HYPOTHESIS%20TESTINGArtboard%201.jpg))
+![Hypothesis Testing]([(https://www.analyticssteps.com/backend/media/thumbnail/6735922/4237247_1626434645_HYPOTHESIS%20TESTINGArtboard%201.jpg])
+
 
 
 ***Problem Statement:***
